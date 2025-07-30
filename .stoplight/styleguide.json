@@ -1,0 +1,25 @@
+{
+  "name": "bhjjhj",
+  "description": "",
+  "spectralExtends": [],
+  "extends": [],
+  "formats": [
+    "oas2",
+    "oas3",
+    "oas3.0",
+    "oas3.1"
+  ],
+  "aliases": {},
+  "rules": {
+    "fghhu": {
+      "id": "nKij9H5nbR6-v_SsHjh3Z",
+      "given": [],
+      "severity": "error",
+      "then": {
+        "function": ""
+      },
+      "name": "fghhu"
+    }
+  },
+  "extendedDefault": false
+}
